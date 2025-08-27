@@ -22,7 +22,7 @@
 .outer-wrap{
     width: 100%;
     min-height: 100vh;
-    background-color: #F5F7FA;
+    background-color: powderblue;
     padding: 30px;
 }
 
@@ -33,6 +33,11 @@
 
 .heading {
     margin: 30px auto;
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: var(--box-shadow);
+    margin: 20px auto ;
+    padding: 10px;
 }
 
 .heading .title{
